@@ -1,0 +1,50 @@
+// LogInView
+"1" = "Login with email";
+"2" = "Please enter you accurate email";
+"3" = "Email";
+"4" = "Password";
+"5" = "Log In";
+"6" = "Create new account";
+"7" = "Login";
+
+// SignUpView
+"8" = "Please enter your correct information";
+"9" = "Email";
+"10" = "Password";
+"11" = "Confrim Password";
+"12" = "Sign Up";
+"13" = "New Account";
+
+
+// HomeView
+"14 %@" = "Likes %@";
+"15" = "Hashtag: ";
+"16: %@" = "Publish date: %@";
+"17" = "Posts";
+
+
+// PostsByTagView
+"18" = "Waiting...";
+"19" = "No Results";
+
+
+// AllTagsView
+"20" = "Waiting for load all tags name...";
+"21" = "Write Hashtag Name";
+"22" = "Hashtag";
+
+
+// ProfileView
+"23" = "Log out";
+"24" = "Edit profile";
+"25" = "No posts yet 😢";
+
+
+// UserAccountView
+"26" = "UnFollow";
+"27" = "Follow";
+
+
+
+// NothingHereView
+"28 %@" = "No %@";
